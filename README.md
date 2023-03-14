@@ -3,6 +3,9 @@
 The api for reward calculation has done in laravel framework.
 The database used for this Project is Mysql.
 
+## Laravel work file
+The work file is rewardcalculator.zip
+
 ## Database Configuration
 
 The database credentials have written in the .env file in the <b>rewardcalculator</b> folder
